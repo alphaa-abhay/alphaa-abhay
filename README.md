@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alphaa-abhay
-- 👀 I’m interested in App Development
-- 🌱 I’m currently learning Digital Forensics and Information Security
+- 👀 I’m interested in App Development and App Security
+- 🌱 I’m currently learning Digital Forensics and Information Security (NFSU)
 - 📫 How to reach me chetanabhay@gmail.com
 
 <!---
